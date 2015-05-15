@@ -1,0 +1,13 @@
+{
+  "name": "shark-telegram-bot",
+  "version": "0.1.0",
+  "dependencies": {
+    "lodash": "2.4.1",
+    "strip-ansi": "^2.0.0",
+    "cheerio": "0.18.0",
+    "request": "2.47.0",
+    "strip-ansi": "*",
+    "lodash": "*",
+    "shark.io": "*"
+  }
+}
